@@ -1,0 +1,13 @@
+## Interface: 60200
+## Title: |cff0E8D0Er|r|cff8D8D8DKit|r
+## Version: 2.2
+## Author: Recycle@Sylvanas-EU
+## Notes: |cff0E8D0ERecycle|r |cff8D8D8DUI|r v2.0|n|n|cff36e5ff"Designed primarily for Rogue."
+## SavedVariablesPerCharacter: logged_names, dc_config
+## OptionalDeps: Ace3, LibNameplateRegistry-1.0
+## X-Embeds: Ace3, LibNameplateRegistry-1.0
+
+embeds.xml
+
+rKit.lua
+grid.lua
